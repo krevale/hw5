@@ -60,6 +60,7 @@ void solve(
 				out.insert(curr);
 			}
 		}
+		return;
 	}
 
 	if (curr[ind] != '-') {
